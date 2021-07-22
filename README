@@ -1,6 +1,7 @@
       CLASSIC PONG GAME v1.0
 
 Available single mode and 2-player mode.
+To play just unfold the zip file and drag the directory in the LÖVE2D app.
 
 To be played with LÖVE2D software.
 Made with Lua.
